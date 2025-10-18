@@ -7,4 +7,4 @@ An Actuarial Analyst simulation from forage issued by AIG. I used Marine insuran
 3. Applied actuarial principles to evaluate risks and calculated premiums using experience-based rating, resulting in detailed pricing assessments and recommendations.
 4. Developed comprehensive reports that included assumptions, methodologies, and commentary on risks and uncertainties, demonstrating strong technical writing and critical thinking skills.
 -  Certificate: 
-- *_<img width="1038" height="466" alt="Image" src="https://github.com/user-attachments/assets/c7677abc-078e-4565-aa32-bf929eb693c4" />_*
+- *Skills attained*: _Analytical Thinking, Critical Thinking, Data Analysis, Data Interpretation, Pricing Analysis, Problem Solving, Report Writing, Research Methods, Risk Assessment, Technical Writing_
